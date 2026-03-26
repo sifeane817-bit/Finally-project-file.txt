@@ -1,6 +1,6 @@
 # Project title
 Finally-project (Personal Portfolio Website)
-#Screenshot
+# Screenshot
 127.0.0.1_5500_index.html.png
 # Live demo link
 https://sifeane817-bit.github.io/Finally-project-file.txt/
